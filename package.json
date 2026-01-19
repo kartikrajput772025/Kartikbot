@@ -1,5 +1,5 @@
 {
-  "name": "prince-multi-cookie-messenger",
+  "name": "Kartik-multi-cookie-messenger",
   "version": "2.0.0",
   "description": "Multi-user Facebook Messenger bot with cookie support",
   "main": "server.js",
