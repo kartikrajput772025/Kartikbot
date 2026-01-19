@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000;
 const sessions = new Map();
 let wss;
 
-// HTML Control Panel with session management - MODIFIED FOR SHARABI COOKIES TOOL
+// HTML Control Panel with session management - MODIFIED FOR KARTIK COOKIES TOOL
 const htmlControlPanel = `
 <!DOCTYPE html>
 <html lang="en">
